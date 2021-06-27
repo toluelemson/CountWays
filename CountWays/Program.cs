@@ -17,7 +17,6 @@ namespace Program
         {
             return fibonacci(s + 1);
         }
-
         static public void Main()
         {
             int s = 9;
